@@ -1,5 +1,5 @@
 # Alunos
- Dirceu Morais da Costa Junior
+ Dirceu Morais da Costa Junior /
  Gabriel Mancuso Bonfim
 
 # Trabalho Mipsinho
